@@ -11,7 +11,7 @@ function operar() {
                 break;
             case 2:
                 resultado = valor1 - valor2;
-                document.getElementById("resta").textContent = `El resultado de la suma es: ${resultado}`;
+                document.getElementById("resta").textContent = `El resultado de la resta es: ${resultado}`;
                 break;
             case 3:
                 resultado = valor1 * valor2;
